@@ -1,0 +1,7 @@
+
+  "name": "Indian stock market
+ બજાર AI",
+  "description": "અદ્યતન AI શેરબજાર એનાલિસિસ - Intraday breakouts, F&O option chain, PCR sentiment, and Gemini AI agent in Gujarati & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
